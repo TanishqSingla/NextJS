@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Head from "nex/Head";
+import Head from "next/Head";
 
 export default function FirstPost() {
   return (
